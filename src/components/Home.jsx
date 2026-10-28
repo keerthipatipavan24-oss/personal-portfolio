@@ -5,9 +5,9 @@ export default function Home() {
       className="flex min-h-[90vh] items-center justify-center bg-white px-4 py-16 sm:px-8"
     >
       <div className="mx-auto w-full max-w-4xl text-center">
-        <p className="mb-4 text-lg font-medium text-pink-600">Hello, I'm</p>
+        <p className="mb-4 text-lg font-medium text-pink-600 font-semibold">Hello, I'm</p>
 
-        <h1 className="mb-5 text-4xl font-bold leading-tight sm:text-6xl lg:text-7xl">
+        <h1 className="mb-5 text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
           <span className="block text-slate-900">Keerthipati</span>
           <span className="block text-pink-600">Pavan</span>
         </h1>
